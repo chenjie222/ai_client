@@ -1,0 +1,4 @@
+requests==2.21.0
+simplejson==3.16.0
+opencv-python==4.0.0.21
+jsonpath==0.80
